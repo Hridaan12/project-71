@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+            color: cyan;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(69, 252, 102, 1) 24%, rgba(29, 245, 253, 1) 50%, rgba(131, 58, 180, 1) 100%);
+}
+#para {
+    text-align: center;
+        color: white;
+}
+h2 {
+    text-align: center;
+            color:crimson;
+}
